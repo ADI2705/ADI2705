@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ADISAKHARE
 - 👀 I’m interested in CYBERSECURITY, BUG HUNTING.
-- 🌱 I’m currently learning BTECH IT SGGSIE&T,NANDED
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me adisakhare2705@gmail.com
+- 🌱 I’m currently pursuing B-TECH In IT SGGSIE&T,NANDED
+- 💞️ I’m looking to collaborate on Bug Bounty | Penetrations Testing
+- 📫 How to reach me 2021bit038@sggs.ac.in
 
 <!---
 ADI2705/ADI2705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
