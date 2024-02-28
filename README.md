@@ -3,6 +3,7 @@
 - 🌱 I’m currently pursuing B-TECH In IT SGGSIE&T,NANDED
 - 💞️ I’m looking to collaborate on Bug Bounty | Penetrations Testing
 - 📫 How to reach me 2021bit038@sggs.ac.in
+- 🔗 https://sites.google.com/sggs.ac.in/aditya-sakhare/home
 
 <!---
 ADI2705/ADI2705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
