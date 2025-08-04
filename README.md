@@ -1,12 +1,39 @@
 <h1 align="center">Hi 👋, I'm Aditya Sakhare</h1>
 <h3 align="center">A passionate final-year Information Technology student and aspiring cybersecurity professional</h3>
+# 💫 About Me
 
-# 💫 About Me:
-- 🔭 I’m currently pursuing **B.Tech in Information Technology** at SGGSIE&T, Nanded (CGPA: 7.39)  
-- 💡 My key interests include **Web Application Penetration Testing**, **Security Research**, and **Web Development**.  
-- 🌱 I’m skilled in **C**, **C++**, **Java**, **Python**, and **JavaScript**, along with frameworks like **Django**, **React**, and **Flutter**.  
-- 💼 I’ve reported critical vulnerabilities like **Account Takeovers**, **OTP Bypass**, and **Parameter Tampering** for platforms like Swiggy, Decathlon, TataPlay, and more.  
-- 🤝 I’m open to collaborating on **cybersecurity projects**, **vulnerability research**, and **software development initiatives**.  
+- 🎓 I’ve completed my **B.Tech in Information Technology** from SGGSIE&T, Nanded with a **CGPA of 7.39**.
+- 💼 Currently working at **Zoho Corporation**, where I contribute to:
+  - **NVMe-over-TCP** development and testing
+  - **Storage performance benchmarking**
+  - **Data management solutions** focusing on scalability and high-throughput architectures.
+- 🔐 Previously interned as a **Security Researcher**, identifying and reporting critical web vulnerabilities like:
+  - **Account Takeovers**
+  - **OTP Bypass**
+  - **Parameter Tampering**  
+  for platforms such as **Swiggy**, **Decathlon**, **TataPlay**, and others.
+- 🛠️ Technical Skills:
+  - Languages: **C, C++, Python, Java, JavaScript**
+  - Frameworks: **Django, React, Flutter**
+  - Other: **Linux Systems Programming**, **Benchmarking Automation**, **Web Security Auditing**
+- 💡 Interests:
+  - **Web Application Security**
+  - **Low-level Systems & Storage Engineering**
+  - **Open-source development**
+- 🚀 Currently building tools for:
+  - **Automated hardware benchmarking**
+  - **System-level monitoring**
+  - **Security testing pipelines**
+- 🤝 Open to collaborations in:
+  - **Cybersecurity research**
+  - **Systems programming**
+  - **Performance testing and monitoring tools**
+
+---
+
+> 📫 **Let’s connect!**  
+> I'm always open to interesting discussions, collaborations, and projects that push the boundaries of performance and security.
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-sakhare)  
