@@ -4,10 +4,7 @@
 
 - 🎓 I’ve completed my **B.Tech in Information Technology** from SGGSIE&T, Nanded with a **CGPA of 7.39**.
 - 💼 Currently working at **Zoho Corporation**, where I contribute to:
-  - **NVMe-over-TCP** development and testing
-  - **Storage performance benchmarking**
-  - **Data management solutions** focusing on scalability and high-throughput architectures.
-- 🔐 Previously interned as a **Security Researcher**, identifying and reporting critical web vulnerabilities like:
+- 🔐 Previous achievements as a **Security Researcher**, identifying and reporting critical web vulnerabilities like:
   - **Account Takeovers**
   - **OTP Bypass**
   - **Parameter Tampering**  
